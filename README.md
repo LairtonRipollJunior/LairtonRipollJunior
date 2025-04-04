@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Pós Graduação em Desenvolvimento de Blockchain;<br>DApps, Desenvolvimento Full Stack e Smart Contracts:<br>BitDevs Brasília (https://vinteum.org/)<br>Mestre em Economia, UnB;<br>Administrador com Habilitação em Comércio Exterior;<br>Gestor em Politicas Publicas e Gestão Governamental, GDF;<br>Estou à procura de oportunidades na Web3.
+Estudante de Pós Graduação em Desenvolvimento de Blockchain;<br>DApps, Desenvolvimento Full Stack e Smart Contracts:<br>BitDevs Brasília<br>Mestre em Economia, UnB;<br>Administrador com Habilitação em Comércio Exterior;<br>Gestor em Politicas Publicas e Gestão Governamental, GDF;<br>Estou à procura de oportunidades na Web3.
 
 
 ## 🌐 Socials:
